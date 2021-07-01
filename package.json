@@ -1,0 +1,8 @@
+{
+  "name": "country-state-city-lib",
+  "version": "1.0.0",
+  "description": "Library for retrieving country, states and cities",
+  "main": "index.js",
+  "author": "Yathindra Kodithuwakku",
+  "license": "MIT"
+}
